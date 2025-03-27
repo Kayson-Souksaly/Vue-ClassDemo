@@ -1,10 +1,10 @@
 <script setup>
-import CounterBtn from './components/CounterBtn.vue'
+import CounterBtn from './components/Calculator.vue'
 </script>
 
 <template>
   <header>
-    <h2>Vue Counter App 🚀</h2>
+    <h2>Vue Calculator App 🚀</h2>
   </header>
 
   <main>

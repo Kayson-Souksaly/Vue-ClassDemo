@@ -1,6 +1,6 @@
-# Vue Counter App – Live Coding Template
+# Vue Calculator App – Live Coding Template
 
-This is a starter template for building a simple Counter App in Vue.js during an in-class tutorial.
+This is a starter template for building a simple Calculator App in Vue.js during an in-class tutorial.
 
 ---
 
@@ -60,4 +60,4 @@ Use Vue features like:
 
 ## ✅ Goal
 
-Make this simple app interactive and reactive. Have fun learning Vue! 🚀
+Creating a simple counter app with Vue

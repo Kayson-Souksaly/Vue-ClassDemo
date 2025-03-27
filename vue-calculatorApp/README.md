@@ -60,4 +60,4 @@ Use Vue features like:
 
 ## ✅ Goal
 
-Make this simple app interactive and reactive. Have fun learning Vue! 🚀
+Creating a simple counter app with Vue
