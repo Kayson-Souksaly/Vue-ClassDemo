@@ -4,7 +4,7 @@ import CounterBtn from './components/Calculator.vue'
 
 <template>
   <header>
-    <h2>Vue Calculator App 🚀</h2>
+    <h2 class="green">Vue Calculator App 🚀</h2>
   </header>
 
   <main>

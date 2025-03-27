@@ -1,6 +1,6 @@
-# Vue Calculator App – Live Coding Template
+# 🧮 Vue Calculator App – Live Coding Template
 
-This is a starter template for building a simple Calculator App in Vue.js during an in-class tutorial.
+This is a beginner-friendly template for building a simple calculator in Vue.js during an in-class tutorial. It demonstrates core Composition API concepts such as reactivity, binding, and event handling.
 
 ---
 
@@ -27,37 +27,46 @@ npm install
 npm run dev
 ```
 
-Open your browser and go to: [http://localhost:5173](http://localhost:5173)
+Then open your browser at: [http://localhost:5173](http://localhost:5173)
 
 ---
+
+## 📂 What You'll Build
+
+Inside the `src/components/CalculatorForm.vue` file, you'll create a calculator with:
+
+- Two input fields
+- Operations: addition, subtraction, multiplication, division
+- A result display area
+
+### 🎯 Bonus:
+
+Use `v-if` to check if the result is **even or odd** and display that status.
+
+---
+
+## 🧠 Vue Features Demonstrated
+
+- `ref()` – reactive state
+- `v-model` – two-way form binding
+- `@click` – event handling
+- `<template>` and `<script setup>` – Composition API structure
 
 ---
 
 ## 🧹 Code Quality Tools
-
-This project uses the following VS Code extensions and config tools:
 
 ### 🔧 Recommended VS Code Extensions
 
 - [Prettier - Code Formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 - [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
 
-## 📂 What You'll Build
-
-Inside the `src/components/CounterBtn.vue` file, you'll build a counter that can:
-
-- Increment a number
-- Decrement a number
-- Reset the counter
-
-Use Vue features like:
-
-- `ref()` for reactive state
-- `@click` for event handling
-- `<template>` and `<script setup>` syntax
-
 ---
 
 ## ✅ Goal
 
-Creating a simple counter app with Vue
+To build an interactive calculator using Vue 3 that teaches foundational Composition API features in an easy-to-follow, hands-on format.
+
+---
+
+Happy coding! 🎉
